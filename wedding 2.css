@@ -1,0 +1,99 @@
+body {
+    background-color: #DE937C;
+}
+
+h1 {
+    font-family: madelinette, sans-serif;
+    font-weight: 400;
+    font-size:100px;
+    font-style: normal;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-left: 40px;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h2 {
+    font-family: Lora, serif;
+    font-style: normal;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+    font-size:30px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: Lora, serif;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+ul {
+    color: rgb(255, 255, 255);
+    font-family:Lora, serif;
+    font-style: normal;
+    font-weight: 400;
+    list-style-type: none;
+    overflow: hidden;
+    position:relative;
+}
+
+/* Container holding the image and the text */
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    margin-top: 20px;
+    padding-bottom: 30px;
+  }
+
+  /* Centered text */
+.centered {
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family:"mina";
+  }
+
+.navbar {
+  font-family: Lora;
+  font-size:30px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width:max-content;
+}
+
+a:link {
+  color: #C35734;
+}
+a:visited {
+  color: #EFD1C7;
+}
+
+a:hover {
+  color: #DE937C;
+}
+  .accom {
+    position:relative;
+    text-align: center;
+  }
+
+  .taxi {
+    position: relative;
+    text-align: center;
+  }
+

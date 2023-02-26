@@ -1,0 +1,64 @@
+body {
+    background-color: #DE937C
+}
+
+.navbar {
+  font-family: Lora;
+  font-size:30px;
+  color: rgb(255, 255, 255);
+  left: 35%;
+  width: max-content;
+}
+
+  a:link {
+    color: #C35734;
+  }
+  
+  a:visited {
+    color: #EFD1C7;
+  }
+  a:hover {
+    color: #ffffff;
+  }
+
+h1 {
+    color: #EFD1C7;
+    text-align: center;
+    font-family: mina;
+    font-style: normal;
+    font-weight: 400;
+    padding:2%;
+    margin-top: 20px;
+    font-size: 100px;
+}
+
+form {
+    color: rgb(255, 255, 255);
+    font-family: Lora, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    margin: 40px;
+}
+
+/* Thick red border */
+hr {
+    border: 10px solid #EFD1C7;
+  }
+
+.attendance {
+  margin-top: 20px;  
+}
+
+.form-check {
+    margin-bottom: 20px;
+}
+
+.submit {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.container {
+margin-top: 20px;
+}
